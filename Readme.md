@@ -215,6 +215,7 @@ Legacy ERC20 examples with airdrop use case, not restricted
 </details>
 
 
+
 ## Deploy scripts
 
 1. **deploy:mumbai:erc20** - deploy erc20 smart contract to polygon mumbai
