@@ -233,4 +233,5 @@ Legacy ERC20 examples with airdrop use case, not restricted
 1. **deploy:amoy:balancecredentialissuer** - deploy onchain non-merklized issuer example to polygon amoy
 1. **deploy:main:balancecredentialissuer** - deploy onchain non-merklized issuer example to polygon mainnet
 
-2. 
+
+
