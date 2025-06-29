@@ -234,4 +234,3 @@ Legacy ERC20 examples with airdrop use case, not restricted
 1. **deploy:main:balancecredentialissuer** - deploy onchain non-merklized issuer example to polygon mainnet
 
 
-
